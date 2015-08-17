@@ -1,0 +1,5 @@
+1.To run this in your browser we need to install xammp server.
+2.copy this file and paste in "C:\xampp\htdocs" folder.
+3.Then start Apache from xampp control panel
+4.Then type http://localhost/ + "filename"
+	ex. http://localhost/fbindex.html
